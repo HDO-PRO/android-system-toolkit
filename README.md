@@ -1,8 +1,8 @@
 # 📱 Android Tools & System Utilities
 
-A curated collection of useful Android tools, system utilities, DNS tools, VPN apps, and privacy-focused apps.
+A curated collection of useful Android tools, system utilities, DNS tools, VPN apps, and privacy-focused applications.
 
-> ⚠️ Note: This list is for educational and personal use. Apps and tools change frequently, so some features or links may evolve over time.
+> ⚠️ Note: This list is for educational and personal use. Apps and tools are frequently updated, so features and availability may change over time.
 
 ---
 
@@ -10,11 +10,11 @@ A curated collection of useful Android tools, system utilities, DNS tools, VPN a
 
 Tools for device optimization, automation, and system control.
 
-- :contentReference[oaicite:0]{index=0}  
-  Powerful terminal environment for scripting, package management, and Linux tools on Android.
+- Termux  
+  A powerful terminal environment for scripting, package management, and running Linux tools directly on Android.
 
-- :contentReference[oaicite:1]{index=1}  
-  Helps clean leftover files, cache, and system junk.
+- SD Maid  
+  Helps clean leftover files, cache, and unnecessary system junk to free up storage.
 
 ---
 
@@ -22,14 +22,14 @@ Tools for device optimization, automation, and system control.
 
 Improve speed, privacy, and security with custom DNS solutions.
 
-- :contentReference[oaicite:2]{index=2}  
-  Fast and privacy-focused DNS with optional VPN mode.
+- 1.1.1.1 (Cloudflare WARP)  
+  Fast, privacy-focused DNS with optional VPN-like protection.
 
-- :contentReference[oaicite:3]{index=3}  
-  Fully customizable DNS with ad-blocking, parental controls, and analytics.
+- NextDNS  
+  Fully customizable DNS with ad-blocking, parental controls, analytics, and security filtering.
 
-- :contentReference[oaicite:4]{index=4}  
-  Blocks ads and trackers at the DNS level across devices.
+- AdGuard  
+  Blocks ads, trackers, and malicious domains at the DNS level across apps and devices.
 
 ---
 
@@ -37,26 +37,26 @@ Improve speed, privacy, and security with custom DNS solutions.
 
 Secure your connection and protect your online identity.
 
-- :contentReference[oaicite:5]{index=5}  
-  Privacy-focused VPN with strong encryption and no-logs policy.
+- Proton VPN  
+  Privacy-first VPN with strong encryption and a strict no-logs policy.
 
-- :contentReference[oaicite:6]{index=6}  
-  Lightweight, modern VPN protocol known for speed and simplicity.
+- WireGuard  
+  Lightweight, fast, and modern VPN protocol known for performance and simplicity.
 
-- :contentReference[oaicite:7]{index=7}  
-  Industry-standard VPN solution used for secure connections worldwide.
+- OpenVPN  
+  Widely used open-source VPN solution for secure encrypted connections.
 
 ---
 
 ## ⚙️ Bonus Android Utility Apps
 
-Extra tools that improve usability and control.
+Extra tools that improve usability and device control.
 
-- :contentReference[oaicite:8]{index=8}  
-  Automate almost anything on your Android device.
+- Tasker  
+  Powerful automation tool for Android that lets you create custom triggers and actions.
 
-- :contentReference[oaicite:9]{index=9}  
-  Sync your phone and PC for file sharing, notifications, and remote control.
+- KDE Connect  
+  Sync your phone and PC for file sharing, notifications, clipboard, and remote control.
 
 ---
 
@@ -68,11 +68,9 @@ Extra tools that improve usability and control.
 
 ---
 
-## 🧠 Future Additions (Optional Ideas)
+## 🧠 Future Additions (Ideas)
 
-- Firewall tools (e.g., NetGuard-style apps)
+- Firewall tools (NetGuard-style apps)
 - App permission managers
 - Root utilities (Magisk modules, etc.)
-- Advanced DNS filter setups
-
----
+- Advanced DNS filtering setups
