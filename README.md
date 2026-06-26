@@ -10,10 +10,12 @@ A curated collection of useful Android tools, system utilities, DNS tools, VPN a
 
 Tools for device optimization, automation, and system control.
 
-- Termux  
-  A powerful terminal environment for scripting, package management, and running Linux tools directly on Android.
+- **Termux**  
+  https://termux.dev  
+  A powerful terminal environment for scripting, package management, and running Linux tools on Android.
 
-- SD Maid  
+- **SD Maid**  
+  https://sdmaid.app  
   Helps clean leftover files, cache, and unnecessary system junk to free up storage.
 
 ---
@@ -22,13 +24,16 @@ Tools for device optimization, automation, and system control.
 
 Improve speed, privacy, and security with custom DNS solutions.
 
-- 1.1.1.1 (Cloudflare WARP)  
+- **1.1.1.1 (Cloudflare WARP)**  
+  https://one.one.one.one  
   Fast, privacy-focused DNS with optional VPN-like protection.
 
-- NextDNS  
+- **NextDNS**  
+  https://nextdns.io  
   Fully customizable DNS with ad-blocking, parental controls, analytics, and security filtering.
 
-- AdGuard  
+- **AdGuard**  
+  https://adguard.com  
   Blocks ads, trackers, and malicious domains at the DNS level across apps and devices.
 
 ---
@@ -37,13 +42,16 @@ Improve speed, privacy, and security with custom DNS solutions.
 
 Secure your connection and protect your online identity.
 
-- Proton VPN  
+- **Proton VPN**  
+  https://protonvpn.com  
   Privacy-first VPN with strong encryption and a strict no-logs policy.
 
-- WireGuard  
+- **WireGuard**  
+  https://www.wireguard.com  
   Lightweight, fast, and modern VPN protocol known for performance and simplicity.
 
-- OpenVPN  
+- **OpenVPN**  
+  https://openvpn.net  
   Widely used open-source VPN solution for secure encrypted connections.
 
 ---
@@ -52,10 +60,12 @@ Secure your connection and protect your online identity.
 
 Extra tools that improve usability and device control.
 
-- Tasker  
+- **Tasker**  
+  https://tasker.joaoapps.com  
   Powerful automation tool for Android that lets you create custom triggers and actions.
 
-- KDE Connect  
+- **KDE Connect**  
+  https://kdeconnect.kde.org  
   Sync your phone and PC for file sharing, notifications, clipboard, and remote control.
 
 ---
@@ -64,13 +74,13 @@ Extra tools that improve usability and device control.
 
 - Apps listed here may change or update frequently.
 - Some features may differ depending on Android version.
-- Always download apps from official sources or trusted app stores.
+- Always download apps from official sources.
 
 ---
 
-## 🧠 Future Additions (Ideas)
+## 🧠 Future Additions
 
 - Firewall tools (NetGuard-style apps)
 - App permission managers
-- Root utilities (Magisk modules, etc.)
+- Root utilities (Magisk modules)
 - Advanced DNS filtering setups
